@@ -1,0 +1,5 @@
+package enums;
+
+public enum TiposHechizos {
+	AVADAKEDAVRA, BOMBARDUM, INCENDIUM, PETRIFICUS, PROTEGO, SEPTUSEMBRA, VENEFICUS
+}
