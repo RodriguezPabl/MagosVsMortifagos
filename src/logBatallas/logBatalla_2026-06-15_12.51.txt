@@ -1,0 +1,697 @@
+-----Carga de batallones-----
+------BATALLON------
+Harry Potter     HP: 80/ 80 EM: 80/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Faul Loger       HP:200/200 EM:200/200  Mago-Auror
+Consumible:[pocionVida, pocionPotenciadora]
+Snape            HP:130/130 EM:130/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida, pocionVigorizante]
+------BATALLON------
+GLORO!!!         HP:130/130 EM:130/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida, pocionVigorizante]
+-----------------
+-----------------
+------BATALLON------
+Seguidor 1       HP: 80/ 80 EM: 80/ 80  Mortifago-Seguidor
+Consumible:[pocionMana]
+Seguidor 2       HP: 80/ 80 EM: 80/ 80  Mortifago-Seguidor
+Consumible:[pocionMana]
+Voldemort        HP:200/200 EM:200/200  Mortifago-Comandante
+Consumible:[orocrux]
+El Inmobrable    HP:130/130 EM:130/130  Mortifago-MagoOscuro
+Consumible:[pocionMana, pocionMana, pocionMana]
+-----------------
+
+
+-----Iniciando la batalla-----
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 80/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter ha realizado el hechizo Incendium a Voldemort
+Voldemort ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM: 80/ 80  Mortifago-Seguidor
+Consumible:[pocionMana]
+Seguidor 1 ha realizado el hechizo Veneficus a Faul Loger
+Faul Loger ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Faul Loger       HP:190/200 EM:200/200  Mago-Auror
+Consumible:[pocionVida, pocionPotenciadora]
+Faul Loger esta envenado -10HP
+Faul Loger ha consumido la pocion potenciadora, añadiendo efecto...
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM: 80/ 80  Mortifago-Seguidor
+Consumible:[pocionMana]
+Seguidor 2 ha realizado el hechizo Veneficus a Faul Loger
+Faul Loger ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Snape            HP:130/130 EM:130/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida, pocionVigorizante]
+Snape ha consumido la pocion vigorizante, añadiendo efecto...
+
+*****turno del batallon 2*****
+Voldemort        HP:195/200 EM:200/200  Mortifago-Comandante
+Consumible:[orocrux]
+Voldemort esta quemado -15HP
+Voldemort ha realizado el hechizo AvadaKedavra a Faul Loger
+Faul Loger ha recibido 1000 de daño
+Faul Loger se fue de sabático!!!!!
+
+*****turno del batallon 1*****
+GLORO!!!         HP:130/130 EM:130/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida, pocionVigorizante]
+GLORO!!! ha consumido la pocion vigorizante, añadiendo efecto...
+
+*****turno del batallon 2*****
+El Inmobrable    HP:130/130 EM:130/130  Mortifago-MagoOscuro
+Consumible:[pocionMana, pocionMana, pocionMana]
+El Inmobrable ha realizado el hechizo Protego a Voldemort
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter ha realizado el hechizo Incendium a Voldemort
+Voldemort ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM: 40/ 80  Mortifago-Seguidor
+Consumible:[pocionMana]
+Seguidor 1 +100MP
+
+*****turno del batallon 1*****
+Snape            HP:130/130 EM:130/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+Snape esta vigorizado +10HP +10MP
+Snape ha realizado el hechizo Petrificus a Voldemort
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM: 40/ 80  Mortifago-Seguidor
+Consumible:[pocionMana]
+Seguidor 2 +100MP
+
+*****turno del batallon 1*****
+GLORO!!!         HP:130/130 EM:130/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+GLORO!!! esta vigorizado +10HP +10MP
+GLORO!!! ha realizado el hechizo Protego a Snape
+
+*****turno del batallon 2*****
+Voldemort        HP:175/200 EM:120/200  Mortifago-Comandante
+Consumible:[orocrux]
+Voldemort esta quemado -15HP
+Voldemort esta protegido, reduccion de daño
+Voldemort esta quemado -15HP
+Voldemort esta petrificado, sin movimientos en el siguiente turno
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+El Inmobrable    HP:130/130 EM: 90/130  Mortifago-MagoOscuro
+Consumible:[pocionMana, pocionMana, pocionMana]
+El Inmobrable ha realizado el hechizo Protego a El Inmobrable
+
+*****turno del batallon 1*****
+Snape            HP:130/130 EM: 80/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+Snape esta vigorizado +10HP +10MP
+Snape esta protegido, reduccion de daño
+Snape ha realizado el hechizo Petrificus a Voldemort
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM: 80/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 ha realizado el hechizo Veneficus a Snape
+Snape ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+GLORO!!!         HP:130/130 EM: 90/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+GLORO!!! esta vigorizado +10HP +10MP
+GLORO!!! ha realizado el hechizo Protego a GLORO!!!
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM: 80/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha realizado el hechizo Veneficus a Snape
+Snape ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Voldemort        HP:145/200 EM:120/200  Mortifago-Comandante
+Consumible:[orocrux]
+Voldemort esta quemado -15HP
+Voldemort esta protegido, reduccion de daño
+Voldemort esta quemado -15HP
+Voldemort esta petrificado, sin movimientos en el siguiente turno
+
+*****turno del batallon 1*****
+Snape            HP:110/130 EM: 40/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+Snape esta vigorizado +10HP +10MP
+Snape esta protegido, reduccion de daño
+Snape esta envenado -10HP
+Snape esta envenado -10HP
+Snape ha realizado el hechizo Petrificus a Voldemort
+
+*****turno del batallon 2*****
+El Inmobrable    HP:130/130 EM: 50/130  Mortifago-MagoOscuro
+Consumible:[pocionMana, pocionMana, pocionMana]
+El Inmobrable esta protegido, reduccion de daño
+El Inmobrable ha realizado el hechizo Protego a Seguidor 1
+
+*****turno del batallon 1*****
+GLORO!!!         HP:130/130 EM: 60/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+GLORO!!! esta vigorizado +10HP +10MP
+GLORO!!! esta protegido, reduccion de daño
+GLORO!!! ha realizado el hechizo Protego a Harry Potter
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM: 40/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 esta protegido, reduccion de daño
+Seguidor 1 ha realizado el hechizo Veneficus a Snape
+Snape ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter esta protegido, reduccion de daño
+Harry Potter ha realizado el hechizo Incendium a Voldemort
+Voldemort ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM: 40/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha realizado el hechizo Veneficus a Snape
+Snape ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Snape            HP: 80/130 EM:  0/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+Snape esta vigorizado +10HP +10MP
+Snape esta protegido, reduccion de daño
+Snape esta envenado -10HP
+Snape esta envenado -10HP
+Snape esta envenado -10HP
+Snape esta envenado -10HP
+Snape ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Voldemort        HP:110/200 EM:120/200  Mortifago-Comandante
+Consumible:[orocrux]
+Voldemort esta quemado -15HP
+Voldemort esta protegido, reduccion de daño
+Voldemort esta quemado -15HP
+Voldemort esta petrificado, sin movimientos en el siguiente turno
+Voldemort esta quemado -15HP
+
+*****turno del batallon 1*****
+GLORO!!!         HP:130/130 EM: 30/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+GLORO!!! esta vigorizado +10HP +10MP
+GLORO!!! esta protegido, reduccion de daño
+GLORO!!! ha realizado el hechizo Protego a Snape
+
+*****turno del batallon 2*****
+El Inmobrable    HP:130/130 EM: 10/130  Mortifago-MagoOscuro
+Consumible:[pocionMana, pocionMana, pocionMana]
+El Inmobrable esta protegido, reduccion de daño
+El Inmobrable +100MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter esta protegido, reduccion de daño
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM:  0/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 esta protegido, reduccion de daño
+Seguidor 1 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Snape            HP: 60/130 EM: 30/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+Snape esta vigorizado +10HP +10MP
+Snape esta envenado -10HP
+Snape esta envenado -10HP
+Snape esta envenado -10HP
+Snape esta envenado -10HP
+Snape esta protegido, reduccion de daño
+Snape ha realizado el hechizo Protego a GLORO!!!
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM:  0/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+GLORO!!!         HP:130/130 EM:  0/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+GLORO!!! esta vigorizado +10HP +10MP
+GLORO!!! esta protegido, reduccion de daño
+GLORO!!! ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Voldemort        HP: 65/200 EM:120/200  Mortifago-Comandante
+Consumible:[orocrux]
+Voldemort esta quemado -15HP
+Voldemort esta quemado -15HP
+Voldemort esta quemado -15HP
+Voldemort ha usado un Orocrux, restaurando toda su vida!
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter esta protegido, reduccion de daño
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+El Inmobrable    HP:130/130 EM:110/130  Mortifago-MagoOscuro
+Consumible:[pocionMana, pocionMana]
+El Inmobrable ha realizado el hechizo Protego a Voldemort
+
+*****turno del batallon 1*****
+Snape            HP: 30/130 EM:  0/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+Snape esta vigorizado +10HP +10MP
+Snape esta envenado -10HP
+Snape esta envenado -10HP
+Snape esta envenado -10HP
+Snape esta envenado -10HP
+Snape esta protegido, reduccion de daño
+Snape se fue de sabático!!!!!
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM: 20/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 esta protegido, reduccion de daño
+Seguidor 1 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+GLORO!!!         HP:130/130 EM: 30/130  Mago-Profesor
+Consumible:[pocionVida, pocionVida]
+GLORO!!! esta vigorizado +10HP +10MP
+GLORO!!! esta protegido, reduccion de daño
+GLORO!!! ha realizado el hechizo Protego a Harry Potter
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM: 20/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter esta protegido, reduccion de daño
+Harry Potter ha realizado el hechizo Incendium a Voldemort
+Voldemort ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+Voldemort        HP:195/200 EM:120/200  Mortifago-Comandante
+Consumible:[]
+Voldemort esta quemado -15HP
+Voldemort esta quemado -15HP
+Voldemort esta protegido, reduccion de daño
+Voldemort esta quemado -15HP
+Voldemort ha realizado el hechizo AvadaKedavra a GLORO!!!
+GLORO!!! ha recibido 1000 de daño
+GLORO!!! se fue de sabático!!!!!
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter esta protegido, reduccion de daño
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+El Inmobrable    HP:130/130 EM: 70/130  Mortifago-MagoOscuro
+Consumible:[pocionMana, pocionMana]
+El Inmobrable ha realizado el hechizo Protego a El Inmobrable
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter esta protegido, reduccion de daño
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM: 40/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 ha realizado el hechizo Veneficus a Harry Potter
+Harry Potter ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Harry Potter     HP: 70/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter esta envenado -10HP
+Harry Potter ha realizado el hechizo Incendium a Voldemort
+Voldemort ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM: 40/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha realizado el hechizo Veneficus a Harry Potter
+Harry Potter ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Harry Potter     HP: 50/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Voldemort        HP:145/200 EM: 40/200  Mortifago-Comandante
+Consumible:[]
+Voldemort esta quemado -15HP
+Voldemort esta protegido, reduccion de daño
+Voldemort esta quemado -15HP
+Voldemort esta quemado -15HP
+Voldemort ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 40/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+El Inmobrable    HP:130/130 EM: 30/130  Mortifago-MagoOscuro
+Consumible:[pocionMana, pocionMana]
+El Inmobrable esta protegido, reduccion de daño
+El Inmobrable +100MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 30/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[pocionVida, pocionVida]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter +100HP
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM:  0/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter ha realizado el hechizo Incendium a Voldemort
+Voldemort ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM:  0/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 60/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter esta envenado -10HP
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Voldemort        HP:105/200 EM: 60/200  Mortifago-Comandante
+Consumible:[]
+Voldemort esta quemado -15HP
+Voldemort esta protegido, reduccion de daño
+Voldemort esta quemado -15HP
+Voldemort esta quemado -15HP
+Voldemort esta quemado -15HP
+Voldemort ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 60/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+El Inmobrable    HP:130/130 EM:130/130  Mortifago-MagoOscuro
+Consumible:[pocionMana]
+El Inmobrable esta protegido, reduccion de daño
+El Inmobrable ha realizado el hechizo Protego a Voldemort
+
+*****turno del batallon 1*****
+Harry Potter     HP: 70/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter ha realizado el hechizo Incendium a Voldemort
+Voldemort ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM: 20/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 70/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM: 20/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Voldemort        HP: 50/200 EM: 80/200  Mortifago-Comandante
+Consumible:[]
+Voldemort esta quemado -15HP
+Voldemort esta quemado -15HP
+Voldemort esta quemado -15HP
+Voldemort esta protegido, reduccion de daño
+Voldemort esta quemado -15HP
+Voldemort se fue de sabático!!!!!
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter ha realizado el hechizo Incendium a El Inmobrable
+El Inmobrable ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+El Inmobrable    HP:125/130 EM: 90/130  Mortifago-MagoOscuro
+Consumible:[pocionMana]
+El Inmobrable esta quemado -15HP
+El Inmobrable ha realizado el hechizo Protego a El Inmobrable
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM: 40/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 ha realizado el hechizo Veneficus a Harry Potter
+Harry Potter ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Harry Potter     HP: 70/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter esta envenado -10HP
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM: 40/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha realizado el hechizo Veneficus a Harry Potter
+Harry Potter ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Harry Potter     HP: 60/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter ha realizado el hechizo Incendium a El Inmobrable
+El Inmobrable ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+El Inmobrable    HP:105/130 EM: 50/130  Mortifago-MagoOscuro
+Consumible:[pocionMana]
+El Inmobrable esta quemado -15HP
+El Inmobrable esta protegido, reduccion de daño
+El Inmobrable esta quemado -15HP
+El Inmobrable ha realizado el hechizo Protego a Seguidor 1
+
+*****turno del batallon 1*****
+Harry Potter     HP: 40/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM:  0/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 esta protegido, reduccion de daño
+Seguidor 1 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 30/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[pocionVida]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter +100HP
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM:  0/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+El Inmobrable    HP: 75/130 EM: 10/130  Mortifago-MagoOscuro
+Consumible:[pocionMana]
+El Inmobrable esta quemado -15HP
+El Inmobrable esta protegido, reduccion de daño
+El Inmobrable esta quemado -15HP
+El Inmobrable +100MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 70/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[]
+Harry Potter esta envenado -10HP
+Harry Potter ha realizado el hechizo Incendium a El Inmobrable
+El Inmobrable ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 80/ 80 EM: 20/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 esta protegido, reduccion de daño
+Seguidor 1 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 60/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[]
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM: 20/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 70/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[]
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+El Inmobrable    HP: 40/130 EM:110/130  Mortifago-MagoOscuro
+Consumible:[]
+El Inmobrable esta quemado -15HP
+El Inmobrable esta quemado -15HP
+El Inmobrable esta quemado -15HP
+El Inmobrable se fue de sabático!!!!!
+
+*****turno del batallon 1*****
+Harry Potter     HP: 80/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[]
+Harry Potter ha realizado el hechizo Incendium a Seguidor 1
+Seguidor 1 ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 75/ 80 EM: 40/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 esta protegido, reduccion de daño
+Seguidor 1 esta quemado -15HP
+Seguidor 1 ha realizado el hechizo Veneficus a Harry Potter
+Harry Potter ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Harry Potter     HP: 70/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[]
+Harry Potter esta envenado -10HP
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM: 40/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha realizado el hechizo Veneficus a Harry Potter
+Harry Potter ha recibido 10 de daño y efecto Enveneado
+
+*****turno del batallon 1*****
+Harry Potter     HP: 60/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 60/ 80 EM:  0/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 esta quemado -15HP
+Seguidor 1 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 50/ 80 EM: 40/ 80  Mago-Estudiante
+Consumible:[]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter ha realizado el hechizo Incendium a Seguidor 1
+Seguidor 1 ha recibido 5 de daño y efecto quemado
+
+*****turno del batallon 2*****
+Seguidor 2       HP: 80/ 80 EM:  0/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 2 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 30/ 80 EM:  0/ 80  Mago-Estudiante
+Consumible:[]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter ha meditado + 10HP  + 20MP
+
+*****turno del batallon 2*****
+Seguidor 1       HP: 50/ 80 EM: 20/ 80  Mortifago-Seguidor
+Consumible:[]
+Seguidor 1 esta quemado -15HP
+Seguidor 1 esta quemado -15HP
+Seguidor 1 ha meditado + 10HP  + 20MP
+
+*****turno del batallon 1*****
+Harry Potter     HP: 20/ 80 EM: 20/ 80  Mago-Estudiante
+Consumible:[]
+Harry Potter esta envenado -10HP
+Harry Potter esta envenado -10HP
+Harry Potter se fue de sabático!!!!!
+-----Gano el batallon 2-----
+
+-----Registro de hechizos lanzados (Map)-----
+Seguidor 2 -> [Veneficus, Veneficus, Veneficus, Veneficus, Veneficus, Veneficus]
+Harry Potter -> [Incendium, Incendium, Incendium, Incendium, Incendium, Incendium, Incendium, Incendium, Incendium, Incendium, Incendium, Incendium]
+GLORO!!! -> [Protego, Protego, Protego, Protego, Protego]
+Seguidor 1 -> [Veneficus, Veneficus, Veneficus, Veneficus, Veneficus, Veneficus]
+Snape -> [Petrificus, Petrificus, Petrificus, Protego]
+El Inmobrable -> [Protego, Protego, Protego, Protego, Protego, Protego, Protego, Protego]
+Voldemort -> [AvadaKedavra, AvadaKedavra]
+-----Juego Terminado-----
